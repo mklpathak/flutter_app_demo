@@ -1,6 +1,6 @@
 import 'package:demo/blocs/search_helper.dart';
-import 'package:demo/hot.dart';
-import 'package:demo/new.dart';
+import 'package:demo/pages/hot.dart';
+import 'package:demo/pages/new.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

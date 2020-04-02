@@ -1,12 +1,4 @@
-// Copyright 2019 Joshua de Guzman (https://jmdg.io). All rights reserved.
-// Use of this source code is governed by a BSD-style
-// license that can be found in the LICENSE file.
-
-// Copyright 2019 Joshua de Guzman (https://jmdg.io). All rights reserved.
-// Use of this source code is governed by a BSD-style
-// license that can be found in the LICENSE file.
-
-import 'package:demo/database/db_provider_new.dart';
+import 'package:demo/database/db_helper.dart';
 import 'package:demo/model/feeds.dart';
 import 'package:rxdart/rxdart.dart';
 
